@@ -4,7 +4,7 @@
 
 <p align="left">- 🎓 Estudante de Sistemas de Informação.<br>- 🔐 Estudante de Segurança da Informação e Cibersegurança.<br>- 💻 Conhecimento em diversas tecnologias.</p>
 
-<p>Sou apaixonada por aprender novas tecnologias e estou sempre em busca de expandir meu conhecimento na área de TI. Este repositório é um espaço onde compartilho projetos e aprendizados relacionados à Segurança da Informação, alguns de desenvolvimento de software e outras tecnologias.</p>
+<p>Sou apaixonada por aprender novas tecnologias e estou sempre em busca de expandir meu conhecimento na área de TI. Este repositório é um espaço onde compartilho projetos e aprendizados relacionados à Segurança da Informação, alguns de desenvolvimento de software e outras tecnologias e ferramentas.</p>
 
 
 ###
